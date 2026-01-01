@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url('../img/contact3.jpg');
+    background-image: url('contact3.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -231,3 +231,4 @@ border: 1px solid red;
     }
 
 }
+
