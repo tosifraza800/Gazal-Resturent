@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url('../img/petr.jpg');
+    background-image: url('petr.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -194,5 +194,6 @@ a.link-to-book:hover {
         font-size: 15px;
         text-align: center;
     }
+
 
 }
