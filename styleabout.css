@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url('../img/about1.jpg');
+    background-image: url('about1.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -194,5 +194,6 @@ a.link-to-book:hover {
         font-size: 15px;
         text-align: center;
     }
+
 
 }
